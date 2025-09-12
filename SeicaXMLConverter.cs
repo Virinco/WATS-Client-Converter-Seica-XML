@@ -20,7 +20,7 @@ namespace Seica
             {
                 {"operationTypeCode","10" },
                 {"sequenceName","SoftwareName" },
-                {"sequenceVersion","SoftwareVersion" }
+                {"sequenceVersion","1.0.0" }
             };
         }
 
