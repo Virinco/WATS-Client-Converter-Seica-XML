@@ -65,10 +65,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Data\testdata_00012343123_failed.Xml">
+    <Content Include="Data\testdata_00012343123_failed.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Data\testdata_00012343123_passed.Xml">
+    <Content Include="Data\testdata_00012343123_passed.xml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>

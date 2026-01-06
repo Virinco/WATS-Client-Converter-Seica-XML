@@ -28,7 +28,7 @@ namespace Seica
 
             InitializeAPI(true);
             SeicaXMLConverter converter = new SeicaXMLConverter();
-            string fileName = "Data\\testdata_00012343123_passed.Xml";
+            string fileName = "Data\\testdata_00012343123_passed.xml";
             SetConversionSource(new FileInfo(fileName), converter.ConverterParameters, null);
             using (FileStream file = new FileStream(fileName, FileMode.Open))
             {
